@@ -18,3 +18,4 @@ Features :
 6.hostel+fd blueprints+timings+academic cals
 7. basic how to queries(apply for SOP/MCN/..)
 8. academic calender
+"# LanguageTranslationModelIR" 
