@@ -1,5 +1,4 @@
-# Project-Zero
-
+# BITS Buddy
 handouts and academic calendar feature added.
 NewAgent.zip contains all the intents along with the new ones.
 
@@ -18,4 +17,3 @@ Features :
 6.hostel+fd blueprints+timings+academic cals
 7. basic how to queries(apply for SOP/MCN/..)
 8. academic calender
-"# LanguageTranslationModelIR" 
